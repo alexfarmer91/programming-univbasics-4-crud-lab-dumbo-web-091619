@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  
+  ["Chevrolet Corvette","Porsche 911","Alfa Romeo Giulia QV","Ferrari 599"]
 end
 
 def add_element_to_end_of_array(array, element)
